@@ -1,0 +1,33 @@
+_repo: Les-veillees-du-chauffeur-b-Contes-essais-recits-de-voyage_71300
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernard, Tristan
+    alias: Bernard, Paul
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '55824'
+    url: http://www.gutenberg.org/2009/agents/55824
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Tristan_Bernard
+    - https://fr.wikipedia.org/wiki/Tristan_Bernard
+description: ''
+gutenberg_issued: '2023-07-30'
+identifiers:
+  gutenberg: '71300'
+language: fr
+pgterms:marc904: https://archive.org/details/lesveillesduch00bern
+pgterms:marc905: 20230128064819bernard
+pgterms:marc906: '1909'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel, Chuck Greif and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bPaul Ollendorff, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Les veillées du chauffeur : $b Contes, essais, récits de voyage'
+url: http://www.gutenberg.org/ebooks/71300
